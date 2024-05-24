@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-style: sans-serif;
+}
+.container{
+    background-image: url(pexels-photo-256490.jpeg);
+    width:100%;
+    height:1080px;
+      
+    margin:auto;
+}
+.container h2 {
+   padding:20px;
+   text-align: center;
+   color: aliceblue;
+   
+}
+.container h4 {
+    text-align: center;
+    color: aliceblue;
+ }
+ .container .col {
+    padding:20px 10px;
+    margin:20px;
+    text-align: center;
+    
+
+
+ }
+ .container .col .form1 input{
+    margin:8px;
+    width:20%;
+    height:20px;
+    border-radius:30px;
+    border:none
+
+ }
+ .container .col .form1 .btn-1  .btn-2{
+    color:green;
+    
+
+
+ }
+
+
